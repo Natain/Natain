@@ -1,12 +1,21 @@
 ### Hey I'm [Bogdan Natain](https://github.com/Natain/)! 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natain/)
-[![](https://gitwar.herokuapp.com/badge?username=Natain&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://natain.github.io/website-portfolio/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/natainbogdan/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/NatainBogdan)
+<!-- [![](https://gitwar.herokuapp.com/badge?username=Natain&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/) -->
+
+[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=AlinGeorgescu.AlinGeorgescu&style=flat-square&color=0088cc)
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Natain&style=flat-square&color=0088cc)
+
 
 I'm a Junior Full Stack Developer 🤓, alumus of [Sapienza Università di Roma 🎓](https://www.uniroma1.it/it/pagina-strutturale/home). Currently seeking a role in backend or frontend developer.I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.I love to explore new technologies and leverage them to solve real-life problems ✨.
 I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+
+
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
