@@ -13,7 +13,7 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Natain&style=flat-square&color=0088cc)
 
 
-<!-- [![](https://gitwar.herokuapp.com/badge?username=Natain&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/) -->
+
 
 
 
