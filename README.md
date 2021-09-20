@@ -1,4 +1,4 @@
-### Hey I'm [Bogdan Natain](https://github.com/Natain/)! 👋
+### Hey I'm [Natain](https://github.com/Natain/)! 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natain/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://natain.github.io/website-portfolio/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/NatainBogdan)
