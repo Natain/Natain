@@ -31,7 +31,7 @@ I'm currently into Web Development 🕸️ and working on my Data Structures and
 
 - 🚀 &nbsp; Junior Full Stack Developer.
 -  🛠 &nbsp; I’m currently working with Node.js, PHP, JavaScript, Laravel,<br />Python, MySQL, etc.
- - 👨🏻‍💻 &nbsp; Most of my open-source projects are available on [Github](https://github.com/Natain).
+ - 👨🏻‍💻 &nbsp; Most of my open-source projects are available on [Github](https://github.com/Natain?tab=repositories).
   - 📝 &nbsp; Checkout my [Resume](https://github.com/Natain/Natain/blob/main/Resume-Natain-Bogdan.pdf).
  
  ### My Absolute Favorites:
