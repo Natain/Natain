@@ -23,7 +23,7 @@ I'm currently into Web Development 🕸️ and working on my Data Structures and
 
 
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://github.com/Natain/natain-bogdan-programing/blob/main/natain-bogdan-programmer.gif" />
 
 
 ### Talking about Personal Stuffs:
