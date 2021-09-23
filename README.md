@@ -6,7 +6,7 @@
 
 
 ###
-[![](https://gitscores.herokuapp.com/badge?username=Natain&label=Gitscore%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitscores.herokuapp.com/)
+<!-- [![](https://gitscores.herokuapp.com/badge?username=Natain&label=Gitscore%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitscores.herokuapp.com/) -->
 ###
 
 
