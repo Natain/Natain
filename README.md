@@ -17,7 +17,7 @@
 
 
 
-I'm a Junior Full Stack Developer 🤓, alumus of [Sapienza Università di Roma 🎓](https://www.uniroma1.it/it/pagina-strutturale/home). Currently seeking a role in backend or frontend developer.I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.I love to explore new technologies and leverage them to solve real-life problems ✨.
+I'm a Front-end Web Developer 🤓, alumus of [Sapienza Università di Roma 🎓](https://www.uniroma1.it/it/pagina-strutturale/home). Currently seeking a role in Front-end developer.I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.I love to explore new technologies and leverage them to solve real-life problems ✨.
 I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 
@@ -29,8 +29,8 @@ I'm currently into Web Development 🕸️ and working on my Data Structures and
 ### Talking about Personal Stuffs:
 
 
-- 🚀 &nbsp; Junior Full Stack Developer.
--  🛠 &nbsp; I’m currently working with Node.js, React.js, Vue.js, JavaScript, Python, PHP, Laravel, MySQL etc.
+- 🚀 &nbsp; Front-end Web Developer.
+-  🛠 &nbsp; I’m currently working with  Vue.js and JavaScript.
  - 👨🏻‍💻 &nbsp; Most of my open-source projects are available on [Github](https://github.com/Natain?tab=repositories).
   - 📝 &nbsp; Checkout my [Resume](https://github.com/Natain/Resume/blob/main/Resume-Natain-Bogdan.pdf).
  
