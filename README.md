@@ -1,3 +1,5 @@
+
+
 ### Hey I'm [Bogdan](https://github.com/Natain/)! 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natain/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://natain-portfolio.netlify.app/)
