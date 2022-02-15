@@ -34,7 +34,7 @@ I'm currently into Web Development 🕸️ and working on my Data Structures and
 - 🚀 &nbsp; Front-end Web Developer.
 -  🛠 &nbsp; I’m currently working with  Vue.js and JavaScript.
  - 👨🏻‍💻 &nbsp; Most of my open-source projects are available on [Github](https://github.com/Natain?tab=repositories).
- - 📝 &nbsp; Checkout my [Resume](https://github.com/Natain/Resume/blob/main/Resume-Natain-Bogdan.pdf).
+ - 📝 &nbsp; Checkout my [Resume](https://github.com/Natain/Resume.pdf/blob/main/Resume-Natain-Bogdan.pdf).
  
  ### My Absolute Favorites:
  - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
